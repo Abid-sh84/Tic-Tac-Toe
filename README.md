@@ -35,7 +35,7 @@ This is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. 
 
 - 🖥️ HTML
 - 🎨 CSS
-- 💻 JavaScript
+- 💻 JavaScript.
 
 ## 🚀 Setup and Installation
 
