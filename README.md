@@ -85,12 +85,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 5. **Create a new Pull Request**.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Enjoy playing Tic Tac Toe! If you have any questions or feedback, feel free to reach out. 😊
 
 
